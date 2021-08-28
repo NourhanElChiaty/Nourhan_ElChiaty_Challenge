@@ -1,5 +1,5 @@
 # Nourhan_ElChiaty_Challenge
-This challenge covers the below:
+*This challenge covers the below:*
 
 1- A test plan
 
