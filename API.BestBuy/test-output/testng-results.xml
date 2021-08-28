@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1473" started-at="2021-08-28T22:08:11 EET" finished-at="2021-08-28T22:08:12 EET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1473" started-at="2021-08-28T22:08:11 EET" finished-at="2021-08-28T22:08:12 EET">
+      <class name="BestBuy_API.API.BestBuy.DeleteStore">
+        <test-method status="PASS" signature="deleteStore()[pri:0, instance:BestBuy_API.API.BestBuy.DeleteStore@64729b1e]" name="deleteStore" duration-ms="1446" started-at="2021-08-28T22:08:11 EET" finished-at="2021-08-28T22:08:12 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteStore -->
+      </class> <!-- BestBuy_API.API.BestBuy.DeleteStore -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
