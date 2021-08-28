@@ -10,7 +10,7 @@
 4-Automated tests for Best Buy APIs
 
 <h2>Facebook Task</h2>
-Make sure that java & Maven are installed
+Make sure that java & Maven are installed. </br>
 Selenium & TestNG will be download automatically as they exist in POM File
 
 <h3>Installation</h3>
