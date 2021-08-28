@@ -11,6 +11,7 @@
 
 <h2>Facebook Task</h2>
 Make sure that java & Maven are installed
+Selenium & TestNG will be download automatically as they exist in POM File
 
 <h3>Installation</h3>
 <b>Maven:</b>
