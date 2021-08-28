@@ -24,8 +24,8 @@ https://www.java.com/en/download/help/windows_manual_download.html
 <h2>Best Buy Task </h2>
 Rest Assured , TestNG & Maven are used.
 you can use eclipse to run scripts.
-<h3>Installation</h3>
 Rest Assured & TestNG will be download automatically as they exist in POM File.</br>
+<h3>Installation</h3>
 <b>Maven:</b>
 https://maven.apache.org/install.html
 <b>JAVA:</b>
