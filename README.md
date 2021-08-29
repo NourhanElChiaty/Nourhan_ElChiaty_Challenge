@@ -1,9 +1,9 @@
 # Nourhan_ElChiaty_Challenge
 <h2>This challenge covers the below:</h2>
 
-1- A test plan
+1- A test plan for FitnessPal App
 
-2- Reporting Defects
+2- Reporting Defects for FitnessPal App
 
 3- Automated tests for facebook registration and login scenarios
 
