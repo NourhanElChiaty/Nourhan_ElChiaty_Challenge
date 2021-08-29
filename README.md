@@ -10,6 +10,7 @@
 4-Automated tests for Best Buy APIs
 
 <h2>Facebook Task</h2>
+Used POM design Pattern.
 Make sure that JAVA & Maven are installed. </br>
 Selenium & TestNG will be download automatically as they exist in POM File.</br>
 you can use eclipse to run scripts.
